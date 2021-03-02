@@ -115,12 +115,6 @@
     "name":"Ulma A Coruña"
   },
   {
-    "key":"ulma_baleares",
-    "latitude":39.489145,
-    "longitude":2.85167,
-    "name":"Ulma Baleares"
-  },
-  {
     "key":"ulma_barcelona",
     "latitude":41.544259,
     "longitude":2.165428,
@@ -149,6 +143,12 @@
     "latitude":39.751502,
     "longitude":-3.989403,
     "name":"Ulma Toledo"
+  },
+  {
+    "key":"ulma_baleares",
+    "latitude":39.4891,
+    "longitude":2.8516,
+    "name":"Ulma Baleares"
   }
  ]  
 }
